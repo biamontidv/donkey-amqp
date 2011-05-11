@@ -1,0 +1,9 @@
+{ "name" : "donkey-amqp"
+, "author" : "Davide Biamonti"
+, "version" : "0.0.1"
+, "license" : "Apache License, Version 2.0"
+, "dependencies" : {
+    "donkey" : "<=0.0.1"
+    }
+, "main" : "./lib/donkey-amqp/AmqpComponent.js"
+}
