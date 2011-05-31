@@ -2,8 +2,7 @@
 , "author" : "Davide Biamonti"
 , "version" : "0.0.1"
 , "license" : "Apache License, Version 2.0"
-, "devDependencies" : {
-    "donkey" : "<=0.0.1"
-    }
+, "dependencies" : 
+    { "amqp" : "*"}
 , "main" : "./lib/donkey-amqp/AmqpComponent.js"
 }
